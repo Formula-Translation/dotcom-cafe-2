@@ -1,8 +1,7 @@
 # DotCom Cafe
 
-[thai Food](#thai-Food)
 
-[Drive-Thru](#Drive-Thru) | [AboutUs](#About-us)
+[thai Food](#thai-Food) | [AboutUs](#About-us)
 
 ## thai Food
 
