@@ -4,7 +4,7 @@
 
 [Drive-Thru](#Drive-Thru) | [AboutUs](#About-us)
 
-## American Food
+## thai Food
 
 | Menu                     | Price    |
 |:-------------------------|----------|
