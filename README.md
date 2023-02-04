@@ -1,6 +1,6 @@
 # DotCom Cafe
 
-[American Food](#American-Food)
+[thai Food](#thai-Food)
 
 [Drive-Thru](#Drive-Thru) | [AboutUs](#About-us)
 
